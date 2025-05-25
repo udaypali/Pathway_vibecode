@@ -103,10 +103,11 @@ This project demonstrates:
 ## 🎥 Demo Video
 
 The application showcases:
-1. Real-time stock price updates
-2. AI generating insights from live data
-3. Dynamic responses to market changes
-4. Seamless integration of multiple data sources
+![image](https://github.com/user-attachments/assets/b05bba66-edcf-42b8-8ba2-c0c820687a44)
+![image](https://github.com/user-attachments/assets/e92e5841-4c81-4a6d-a72c-a6285445d0fc)
+![image](https://github.com/user-attachments/assets/eabe126d-aa64-41de-a442-260f4988c27a)
+![image](https://github.com/user-attachments/assets/cb9a810b-22af-4918-86cc-6b201eeda9d6)
+![image](https://github.com/user-attachments/assets/b9799805-dc6d-45bd-bb27-16309a7801e3)
 
 ## 🔮 Future Enhancements
 
