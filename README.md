@@ -2,6 +2,9 @@
 
 A real-time AI-powered financial analysis platform demonstrating dynamic RAG capabilities using Pathway framework.
 
+# Live Project Link 
+https://v0-groq-cloud-project-setup-m9.vercel.app/
+
 ## 🚀 Features
 
 - **Real-time Data Streaming**: Live stock prices and market data updates
