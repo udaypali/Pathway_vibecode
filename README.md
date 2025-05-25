@@ -41,9 +41,9 @@ A real-time AI-powered financial analysis platform demonstrating dynamic RAG cap
 3. **Environment Variables**
    The following environment variables are already configured:
    \`\`\`
-   GROQCLOUD_API_KEY=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
-   ALPHAVANTAGE_API_KEY=RRXMDP42C8406YXH
-   NEWAPI_KEY=e52ba09ac9304a0abdfca0370fe54a08
+   GROQCLOUD_API_KEY=your_api_key
+   ALPHAVANTAGE_API_KEY=your_api_key
+   NEWAPI_KEY=your_api_key
    \`\`\`
 
 4. **Run the development server**
